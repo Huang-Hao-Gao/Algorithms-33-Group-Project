@@ -2,7 +2,7 @@
 
 3 chosen data structures:
 1. LLRB BST - Huang
-
+2. Scapegoat Tree - Hezekias
 
 
 coding the data structures:
